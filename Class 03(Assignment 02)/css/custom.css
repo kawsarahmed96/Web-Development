@@ -1,0 +1,59 @@
+
+
+.navbar-dark .navbar-brand {
+    color: #5154b1;
+}
+
+
+.navbar-brand {
+    
+    font-size: 2.25rem;
+  
+}
+
+element.style {
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    font-size: 25px;
+   
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:#82878f;
+    border-color: #3d4148;
+}
+.text-white {
+    --bs-text-opacity: .2;
+    color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+}
+.mb-2 {
+    margin-bottom: 2.5rem !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.55);
+    margin-top: 21px;
+    margin-top: 34px;
+}
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+    background-color: #000000!important;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    box-shadow: 1px 7px 8px #000000;
+}
+.fw-bolder {
+    font-weight: bolder !important;
+    border-bottom: 3px solid #000000;
+}
+.form-control {
+ 
+    border-radius: 0px;
+   
+}
